@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17d9854-4fec-456e-8e4f-bef676632272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="f17d9854-4fec-456e-8e4f-bef676632272" name="Changes" comment="git test1_commit test1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,12 +73,33 @@
       <updated>1714632549531</updated>
       <workItem from="1714632550818" duration="14000" />
       <workItem from="1714633168140" duration="191000" />
-      <workItem from="1714634488954" duration="427000" />
+      <workItem from="1714634488954" duration="730000" />
     </task>
+    <task id="LOCAL-00001" summary="git test1_commit test1">
+      <option name="closed" value="true" />
+      <created>1714634988003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714634988004</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git test1_commit test1">
+      <option name="closed" value="true" />
+      <created>1714635036392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714635036392</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git test1_commit test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="git test1_commit test1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
